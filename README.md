@@ -1,5 +1,58 @@
-# waggnerl.github.io
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Política de Privacidade</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      line-height: 1.6;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #222;
+    }
+    h2 {
+      margin-top: 24px;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+  <h1>Política de Privacidade</h1>
 
+  <p>Este aplicativo respeita e protege a privacidade dos usuários. 
+  Coletamos apenas as informações necessárias para fornecer e melhorar nossos serviços, 
+  como nome, e-mail e dados relacionados a campanhas de anúncios.</p>
 
+  <h2>Uso das informações</h2>
+  <p>Os dados coletados podem ser utilizados para:</p>
+  <ul>
+    <li>Melhorar a experiência do usuário;</li>
+    <li>Gerenciar campanhas de marketing e anúncios;</li>
+    <li>Enviar comunicações relevantes, se autorizado pelo usuário.</li>
+  </ul>
 
-dflmkgshjdfgbhhjkzdfhbgjzsdjkfghsjkdfghjksdfhkjg
+  <h2>Compartilhamento</h2>
+  <p>Não vendemos ou compartilhamos informações pessoais com terceiros, 
+  exceto quando exigido por lei ou para a operação dos serviços.</p>
+
+  <h2>Segurança</h2>
+  <p>Adotamos medidas técnicas e organizacionais adequadas para proteger os dados 
+  contra acesso não autorizado, alteração ou divulgação.</p>
+
+  <h2>Direitos do usuário</h2>
+  <p>O usuário pode solicitar a exclusão ou alteração de seus dados a qualquer momento, 
+  entrando em contato pelo e-mail abaixo.</p>
+
+  <h2>Contato</h2>
+  <p>Em caso de dúvidas sobre esta Política de Privacidade, 
+  entre em contato pelo e-mail: <strong>seuemail@seudominio.com</strong></p>
+
+  <p><em>Última atualização: Setembro/2025</em></p>
+</body>
+</html>
